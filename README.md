@@ -1,12 +1,6 @@
 # HorizontalListView
 Simple Cross-Platform Horizontal Listview using Xamarin.Forms
 
-<img src="https://github.com/softsan/HorizontalListView/blob/master/HorizontalListView/screenshots/android.png" height="900px" width="400px" />
-
-
-<img src="https://github.com/softsan/HorizontalListView/blob/master/HorizontalListView/screenshots/iOS.png" width="400" height="900"/>
-
-
 Sample usage:(XAML) 
 
 ```xml
